@@ -1,3 +1,3 @@
 ﻿## Sponsor Service
 
-Please read https://github.com/MouriNaruto#sponsor-service.
+Please read https://github.com/MouriNaruto/MouriNaruto/tree/main/Sponsor.
